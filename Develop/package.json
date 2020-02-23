@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app tracks your spending habits",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,19 +10,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/coding-boot-camp/unit18hw.git",
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Brittany",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://britt-hub.github.io/Offline-Online-Budget-Tracker/"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/Britt-hub/Offline-Online-Budget-Tracker",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lite-server": "^2.5.3",
-    "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
-  }
+    "mongoose": "^5.9.2",
+    "morgan": "^1.9.1",
+    "webpack": "^4.41.6"
+  },
+  "devDependencies": {}
 }
