@@ -82,7 +82,7 @@ function sendTransaction(isAdding) {
     errorEl.textContent = "Missing Information";
     return;
   } else {
-    errorEl.textContent = "";
+    // errorEl.textContent = "";
   }
 
   const transaction = {
