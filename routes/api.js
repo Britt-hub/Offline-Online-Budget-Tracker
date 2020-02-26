@@ -1,5 +1,8 @@
 const router = require("express").Router();
+//find the correct path for transaction
 const Transaction = require("../models/transaction.js");
+
+
 
 router.post("/api/transaction", ({ body }, res) => {
   Transaction.create(body)
