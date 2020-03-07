@@ -1,8 +1,8 @@
 const FILES_TO_CACHE = [
     "/",
-    "/index.html",
+    // "/index.html",
     "/index.js",
-    "/budgetdb.js",
+    // "/budgetdb.js",
     "/style.css"];
     
 
