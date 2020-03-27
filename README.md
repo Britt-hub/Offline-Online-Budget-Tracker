@@ -1,7 +1,7 @@
 # Offline-Online-Budget-Tracker
 This app is made to keep up with your spending habits.
 
-![Landing Page](budgetTracker.png)
+![Budget Tracker](budgetTracker.png)
 
 ## User Story
 

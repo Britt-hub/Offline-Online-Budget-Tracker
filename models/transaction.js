@@ -10,7 +10,7 @@ const transactionSchema = new Schema({
   },
   value: {
     type: Number,
-    required: "Enter an amount"
+    required: "Enter amount"
   },
   date: {
     type: Date,
